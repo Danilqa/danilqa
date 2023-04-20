@@ -1,6 +1,7 @@
 # Hi, I'm Dan 👋🏻
 
-Senior Software Engineer. Mostly experienced in TypeScript, React, Kotlin, and Node.js.
+A Senior Software Engineer. Mostly experienced in front-end.
+My technology stack is: TypeScript, React, Node.js and Kotlin.
 
 I'm passionate about building high-quality software and helping others to do the same. 
 
