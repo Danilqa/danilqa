@@ -39,12 +39,22 @@ Helping people to grow as engineers.
 
 ### Replica card game
 
-14k+ downloads, 4.8/5 reviews
+14k+ downloads, 4.8/5 feedback
 
 The app helps people build meaningful relationships, better understand each other and improve communication.
 
 - [AppStore](https://apps.apple.com/ru/app/%D1%80%D0%B5%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D1%8B/id1597619469)
 - [Google Play](https://play.google.com/store/apps/details?id=tech.sitdikov.replicacards)
+
+## Podcasts
+
+### Replica
+
+163k+ plays, 4.8/5 feedback, 300+ reviews
+
+Hosted a podcast about healthy communication.
+
+* [Links to platforms](http://replica-podcast.ru/)
 
 ## Contacts
 
