@@ -3,7 +3,7 @@
 A Senior Software Engineer. Mostly experienced in front-end.
 My technology stack is: TypeScript, React, Node.js and Kotlin.
 
-I'm passionate about building high-quality software and helping others to do the same. 
+I'm passionate about building high-quality, cutting edge software and helping others to do the same. 
 
 5+ years of professional web development experience in product companies in various industries, including electric vehicles, 
 logistics, gambling, telecommunications, and biotech. Worked with b2c, b2b, and b2g projects.
