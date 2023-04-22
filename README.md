@@ -32,12 +32,12 @@ Helping people to grow as engineers.
 
 ## Lectures and workshops
 
-- [Functional programming in JavaScript](https://www.youtube.com/watch?v=X-B0voOTY5Q) (2023)
+- [Functional Programming in JavaScript](https://www.youtube.com/watch?v=X-B0voOTY5Q) (2023)
 - [Algorithms and Data Structures](https://www.youtube.com/watch?v=-g0jvmgMTII) (2023)
 
 ## Launched pet-projects
 
-### Replica card game
+### Replica — card game
 
 14k+ downloads, 4.8/5 feedback
 
