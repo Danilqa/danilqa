@@ -29,6 +29,7 @@ Helping people to grow as engineers.
 
 - 1 to 1 sessions - [GetMentor.dev](https://getmentor.dev/mentor/daniil-sitdikov-1781)
 - at the online programming school - [GuideDao](https://www.guidedao.xyz)
+- mentored developers at "English for IT" - [SkyEng](https://skyeng.ru/)
 
 ## Lectures and workshops
 
