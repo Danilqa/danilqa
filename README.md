@@ -35,6 +35,7 @@ Helping people to grow as engineers.
 
 - [Functional Programming in JavaScript](https://www.youtube.com/watch?v=X-B0voOTY5Q) (2023)
 - [Algorithms and Data Structures](https://www.youtube.com/watch?v=-g0jvmgMTII) (2023)
+- [Public Mock Tech Interview with Middle Engineer](https://www.youtube.com/watch?v=-g0jvmgMTII) (2023)
 
 ## Launched pet-projects
 
@@ -56,6 +57,10 @@ The app helps people build meaningful relationships, better understand each othe
 Hosted a podcast about healthy communication.
 
 * [Links to platforms](http://replica-podcast.ru/)
+
+### Invited as a guest
+
+- [How to code using ChatGPT, prompt engineering](https://podcast.ru/e/1mliO_hw0u./) (2023)
 
 ## Contacts
 
