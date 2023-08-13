@@ -5,7 +5,7 @@ My technology stack is: TypeScript, React, Node.js and Kotlin.
 
 I'm passionate about building high-quality, cutting edge software and helping others to do the same. 
 
-5+ years of professional web development experience in tech product companies in various industries, including electric vehicles, 
+6+ years of professional web development experience in tech product companies in various industries, including electric vehicles, 
 logistics, gambling, telecommunications, and biotech. Worked with b2c, b2b, and b2g projects.
 
 - 4 enterprise products from scratch to production
@@ -15,13 +15,18 @@ logistics, gambling, telecommunications, and biotech. Worked with b2c, b2b, and 
 ## Features articles
 
 - [7 Proven Practices to Boost Development Speed and Project Quality](https://hackernoon.com/7-proven-practices-to-boost-development-speed-and-project-quality) (🌱 featured by Hackernoon as a Top Story)
-- [How to Master the Senior Developer Role: 7 Criteria to Follow](https://dev.to/dsitdikov/how-to-master-the-senior-developer-role-7-criteria-to-follow-4hp3) (📚 9k+ reads, published on dev.to twitter)
+- [How to Master the Senior Developer Role: 7 Criteria to Follow](https://dev.to/dsitdikov/how-to-master-the-senior-developer-role-7-criteria-to-follow-4hp3) (📚 10k+ reads, published on dev.to twitter)
 - [Selecting the Right Dependencies: A Comprehensive Practical Guide](https://hackernoon.com/selecting-the-right-dependencies-a-comprehensive-practical-guide) (🌱 featured by Hackernoon as a Top Story)
 - [Single place of form validation rules for clients and services with JSON Schema](https://dev.to/dsitdikov/single-place-of-form-validation-rules-for-clients-and-services-with-json-schema-i1g)
 - [Unit testing components with Jest in React Native. Setup and trouble resolutions](https://medium.com/@dsitdikov/unit-testing-components-with-jest-in-react-native-setup-and-trouble-resolutions-ad2d2e3f909d)
 - [Unit Testing Components with Jest in React Native. Approaches](https://medium.com/@dsitdikov/unit-testing-components-with-jest-in-react-native-approaches-cd4e6557718e)
 - [Building React Native apps to signed *.ipa package from the terminal for CI](https://medium.com/@dsitdikov/building-react-native-apps-to-signed-ipa-package-from-the-terminal-for-ci-362e2bbd5e97)
 - [8 the most essential tested React Native libraries that will skyrocket your app](https://medium.com/@dsitdikov/8-the-most-essential-tested-react-native-libraries-that-will-skyrocket-your-app-cc19973cc2cb)
+
+## Open Source
+
+- [Node File Route - A Technology Agnostic File-Based Routing for Node.js.](https://github.com/Danilqa/node-file-router) (2023 - present)
+- [Commit Linter](https://github.com/eigen-space/commit-linter) (2019 - 2021)
 
 ## Mentorship
 
