@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋🏻
 
-A Senior Software Engineer. My technology stack includes Next.js, TypeScript, React, and Node.js.
+A Senior Software Engineer. My technology stack includes TypeScript, React, Kotlin and Node.js.
 
 I write articles on [Dev.to](https://dev.to/dsitdikov) and [Hackernoon](https://hackernoon.com/u/dsitdikov), 
 mentor developers at [GetMentor.dev](https://getmentor.dev/mentor/daniil-sitdikov-1781), give lectures and 
