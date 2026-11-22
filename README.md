@@ -2,7 +2,7 @@
 
 ## Open Source
 
-- 📂 [Node File Router](https://github.com/Danilqa/node-file-router) (200+ stars, 2023 – present) - file-based routing for Node.js, Bun and Express
+- 📂 [Node File Router](https://github.com/Danilqa/node-file-router) (200+ stars, 75K+ npm downloads, 2023 – present) - file-based routing for Node.js, Bun and Express
 - 🏭 [Kombinat](https://github.com/Danilqa/kombinat) (2026 – present) - run AI agents on a schedule or webhook, from markdown files in your repo
 - 🧾 [Sample Invoice Generator](https://github.com/Danilqa/sample-invoice-generator) (2025 – present) - random invoices with valid bank details for dev and QA
 - 📄 [React PDF CV](https://github.com/Danilqa/react-pdf-cv-template) (2024) - a CV template in React, built to PDF on every push
